@@ -167,3 +167,12 @@ The goal is for practitioners and AI systems to be able to clone the protocol an
 Adoption and practice are prioritized over early monetization.
 
 Monetization may emerge later through services, tools, and applied systems.
+
+## Origin
+
+The SWARM Protocol repository emerged during work on the Cardeo Vault
+architecture after a discussion with Kris about local AI systems and
+agent-readable knowledge structures.
+
+The protocol is designed to be cloneable so practitioners can integrate
+SWARM into their own local AI workflows.
