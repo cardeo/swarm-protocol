@@ -1,14 +1,14 @@
 # SWARM Protocol
 
-SWARM is a loop-based protocol for nonlinear creativity and signal detection.
+SWARM is a loop-based protocol for nonlinear thinking, creativity, and signal detection.
 
-It governs how ideas are spotted, weighed, arranged, refined, and made through structured recursion rather than linear execution.
+It structures how ideas are spotted, weighed, arranged, refined, and made through iterative loops rather than linear execution.
 
-SWARM exists to build and preserve human judgment in environments increasingly optimized by AI systems. :contentReference[oaicite:0]{index=0}
+SWARM exists to preserve and strengthen human judgment in environments increasingly optimized by AI systems.
 
 SWARM is not a productivity system.
 
-It is a disciplined method for strengthening signal through iterative micro-loops.
+It is a disciplined method for strengthening signal through repeated micro-loops.
 
 ---
 
@@ -24,7 +24,7 @@ These systems are powerful, but they also reduce the number of opportunities hum
 
 SWARM exists to preserve and strengthen that capacity.
 
-Rather than automating decisions, SWARM structures how a practitioner observes signals, weighs them, and allows meaning to emerge over repeated loops.
+Rather than automating decisions, SWARM structures how a practitioner observes signals, weighs them, and allows meaning to emerge through repeated loops.
 
 ---
 
@@ -34,17 +34,17 @@ The functional spine of the protocol is a five-phase loop:
 
 Spot → Weigh → Arrange → Refine → Make
 
-
 Work happens **inside the loop**.  
-Nonlinearity emerges **across repeated loops**.
+Understanding emerges **across repeated loops**.
 
 Linear structure exists within each pass.  
 Emergence appears through repetition.
 
-Most loops do not produce durable outcomes.  
+Most loops do not produce durable outcomes.
+
 This is expected.
 
-Clarity forms through density of loops, not through a single pass.
+Clarity forms through density of loops rather than a single attempt.
 
 ---
 
@@ -53,26 +53,30 @@ Clarity forms through density of loops, not through a single pass.
 SWARM distinguishes three structural layers.
 
 ### Loop
+
 A single exploratory pass through the SWARM phases.
 
 Loops are the unit of movement.
 
 ### Protocol
-The pattern that emerges across loops once coherence proves durable.
+
+The pattern that emerges across many loops once a process proves durable.
 
 Protocols are discovered through repetition rather than imposed before work begins.
 
 ### Signal
+
 What persists across loops.
 
 Signals are observed rather than declared.  
 Weak signals collapse under repetition.  
 Strong signals gain weight.
 
-- Loop = movement
-- Protocol = memory
-- Signal = meaning
+In short:
 
+Loop = movement  
+Protocol = structure discovered over time  
+Signal = meaning that survives repetition
 
 Clarity must be earned through use.
 
@@ -87,9 +91,9 @@ Intuition develops through accumulated pattern recognition built over repeated l
 Judgment is delayed rather than removed.
 
 Early loops are intentionally shielded from premature evaluation.  
-Judgment strengthens only once signal density forms.
+Judgment strengthens once signal density forms.
 
-SWARM therefore protects interpretation as a human responsibility.
+SWARM protects interpretation as a human responsibility.
 
 AI systems may assist the process but must not replace judgment.
 
@@ -111,18 +115,22 @@ Reduction is the mechanism through which clarity forms.
 
 This repository contains the stable knowledge of the SWARM Protocol.
 
+```
 canon/
-Core conceptual documents that define the protocol.
+    Core conceptual documents defining the protocol.
 
 patterns/
-Applied techniques for practicing SWARM in specific contexts.
+    Applied techniques for practicing SWARM.
+
+templates/
+    Structures used to write patterns and other protocol artifacts.
 
 AGENTS.md
-Guidance for AI systems that interact with this repository.
+    Guidance for AI systems interacting with this repository.
 
 README.md
-Entry point to the protocol.
-
+    Entry point to the protocol.
+```
 
 Documents are written in plain Markdown to remain portable and accessible to both humans and machines.
 
@@ -132,7 +140,7 @@ Documents are written in plain Markdown to remain portable and accessible to bot
 
 The canon contains the foundational ideas behind SWARM.
 
-These documents define the protocol and its boundary conditions.
+These documents define the protocol and its boundaries.
 
 Examples include:
 
@@ -150,7 +158,7 @@ Canon documents explain the system rather than prescribing specific tasks.
 
 Patterns describe how SWARM can be practiced in real situations.
 
-Each pattern is a small, modular document describing how the loop can be applied to a particular activity.
+Each pattern is a modular document describing how the loop can be applied to a particular activity.
 
 Examples include:
 
@@ -190,9 +198,9 @@ SWARM preserves human evaluation as the center of the protocol.
 
 # Loop Lab
 
-SWARM Protocol contains only stable knowledge.
+This repository contains only stable knowledge.
 
-Exploration, experimentation, and collaborative research happen in **Loop Lab**.
+Exploration, experimentation, and collaborative research occur in **Loop Lab**.
 
 Concepts may graduate from Loop Lab into this repository once they become clear and repeatable.
 
@@ -202,7 +210,7 @@ Concepts may graduate from Loop Lab into this repository once they become clear 
 
 SWARM is an evolving protocol.
 
-The canon is stable but will continue to deepen through practice.
+The canon will remain stable while deepening through practice.
 
 Patterns will expand as practitioners apply the protocol across disciplines.
 
