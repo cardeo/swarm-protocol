@@ -1,0 +1,22 @@
+# Internal planning files
+project-spec.md
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Node / Python artifacts (future safe)
+node_modules/
+__pycache__/
+
+# Build artifacts
+dist/
+build/
