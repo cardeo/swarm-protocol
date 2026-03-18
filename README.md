@@ -1,14 +1,17 @@
 # SWARM Protocol
 
+A human thinking protocol for working alongside AI systems.
+
+AI systems optimize outcomes.  
+SWARM preserves human judgment.
+
 SWARM is a loop-based protocol for nonlinear thinking, creativity, and signal detection.
 
-It structures how ideas are spotted, weighed, arranged, refined, and made through iterative loops rather than linear execution.
-
-SWARM exists to preserve and strengthen human judgment in environments increasingly optimized by AI systems.
+It structures how ideas are spotted, weighed, arranged, refined, and made through repeated loops rather than linear execution.
 
 SWARM is not a productivity system.
 
-It is a disciplined method for strengthening signal through repeated micro-loops.
+It is a protocol for strengthening judgment through repeated loops.
 
 ---
 
@@ -25,6 +28,19 @@ These systems are powerful, but they also reduce the number of opportunities hum
 SWARM exists to preserve and strengthen that capacity.
 
 Rather than automating decisions, SWARM structures how a practitioner observes signals, weighs them, and allows meaning to emerge through repeated loops.
+
+---
+
+# Quick Start
+
+1. Read the core canon  
+2. Run a SWARM loop  
+3. Observe signals  
+4. Capture what repeats  
+
+Do not try to understand everything upfront.
+
+SWARM is learned through use.
 
 ---
 
@@ -115,21 +131,14 @@ Reduction is the mechanism through which clarity forms.
 
 This repository contains the stable knowledge of the SWARM Protocol.
 
-```
-canon/
-    Core conceptual documents defining the protocol.
+```text
+canon/      Core conceptual documents defining the protocol.
+patterns/   Descriptions of recurring behaviors observed across loops.
+practice/   Ways of engaging the SWARM loop in real work.
+templates/  Structures used to write patterns and other protocol artifacts.
 
-patterns/
-    Applied techniques for practicing SWARM.
-
-templates/
-    Structures used to write patterns and other protocol artifacts.
-
-AGENTS.md
-    Guidance for AI systems interacting with this repository.
-
-README.md
-    Entry point to the protocol.
+AGENTS.md   Guidance for AI systems interacting with this repository.
+README.md   Entry point to the protocol.
 ```
 
 Documents are written in plain Markdown to remain portable and accessible to both humans and machines.
@@ -156,21 +165,23 @@ Canon documents explain the system rather than prescribing specific tasks.
 
 # Patterns
 
-Patterns describe how SWARM can be practiced in real situations.
+Patterns describe recurring behaviors observed across loops.
 
-Each pattern is a modular document describing how the loop can be applied to a particular activity.
+They help practitioners recognize what is happening during exploration.
 
-Examples include:
+Patterns do not prescribe action.
 
-- conducting user interviews
-- discovering product friction
-- generating ideas
-- writing
-- visual exploration
+They provide language for understanding.
 
-Patterns are intentionally granular.
+---
 
-They can be combined and extended as practitioners develop their own workflows.
+# Practice
+
+Practices are ways of engaging the SWARM loop in real work.
+
+They are entry points into exploration, not step-by-step instructions.
+
+Practices help surface signals and strengthen judgment through use.
 
 ---
 
@@ -225,3 +236,7 @@ SWARM was developed by Matt Lambert.
 More context and writing can be found at:
 
 https://cardeo.ca
+
+Clarity is not delivered.
+
+It is discovered through loops.
