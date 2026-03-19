@@ -48,14 +48,15 @@ Give the AI something real to work on:
 
 ---
 
-### 4. Let the loop run
+### 4. Run the loop together
 
-The AI should:
+The loop is:
 
-- move through Spot → Weigh → Arrange → Refine → Make  
-- surface observations  
-- propose directions  
-- expose assumptions  
+Spot → Weigh → Arrange → Refine → Make
+
+The AI may assist within each phase, but must not determine progression between phases.
+
+Progression from one phase to the next requires practitioner input.
 
 Do not expect a final answer immediately.
 
@@ -63,19 +64,27 @@ Do not expect a final answer immediately.
 
 ### 5. Stay in the loop
 
-When the AI reaches a decision checkpoint, it should return to you.
+The practitioner is not only reviewing outputs at the end.
 
-You should:
+The practitioner helps decide:
 
-- validate or reject directions  
-- point at signals  
-- redirect exploration  
+- which observations are worth carrying forward
+- which directions feel strongest
+- which structures feel right
+- whether the work is clarifying or drifting
+
+Human judgment stays active inside the loop.
 
 ---
 
 ### 6. Run more loops
 
+SWARM is not a one-pass system.
+
 Clarity emerges through repeated interaction, not a single prompt.
+
+Most loops do not produce durable outcomes.  
+This is expected.
 
 ---
 
@@ -84,7 +93,9 @@ Clarity emerges through repeated interaction, not a single prompt.
 "Use the SWARM Protocol from this repo.
 
 Here is the task:
-[insert task]"
+[insert task]
+
+Pause for my input as the loop progresses."
 
 ---
 
@@ -103,6 +114,7 @@ Here is the task:
 - Do not ask for a final answer immediately  
 - Do not treat this like a one-shot prompt  
 - Do not let the AI decide meaning  
+- Do not progress between phases without practitioner input  
 
 SWARM is a collaborative loop between human and system.
 
@@ -170,6 +182,8 @@ Judgment is delayed rather than removed.
 
 AI may assist the process, but must not replace interpretation.
 
+The human remains active throughout the loop.
+
 ---
 
 # Patterns
@@ -209,6 +223,7 @@ Agents may:
 Agents must not:
 
 - collapse the loop prematurely  
+- continue without practitioner re-entry  
 - declare signals  
 - replace human interpretation  
 - automate judgment  
