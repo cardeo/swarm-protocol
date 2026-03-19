@@ -6,23 +6,19 @@ They prevent premature conclusions and ensure that human judgment remains active
 
 AI systems may assist exploration and generation, but meaningful interpretation and direction must remain human decisions.
 
-Checkpoints help bring the practitioner back into the loop.
+Checkpoints are required parts of the loop.
 
 ---
 
 # When Checkpoints Occur
 
-Checkpoints typically occur when:
+Checkpoints occur before progression from one phase to the next.
 
-- large volumes of output are generated
-- patterns appear in observations
-- potential signals begin to emerge
-- the system suggests a strong direction
-- work appears ready to move toward execution
+They are required at Spot, Weigh, Arrange, and Refine.
 
-These moments often create pressure to move quickly.
+These moments create space for the practitioner to interpret what is happening before the loop advances.
 
-Checkpoints slow the process long enough for the practitioner to interpret what is happening.
+Prompt wording may vary, but practitioner input is required.
 
 ---
 
@@ -58,6 +54,8 @@ Does it consistently produce strong outputs?
 
 Should exploration continue, or is this direction ready for deeper focus?
 
+These prompts are examples, not a script.
+
 ---
 
 # Agent Behavior at Checkpoints
@@ -74,6 +72,8 @@ Agents may ask questions such as:
 - Does this observation feel important?
 - Should this direction be explored further?
 
+Agents must pause at checkpoints and wait for practitioner input before advancing.
+
 ---
 
 # Practitioner Role
@@ -86,6 +86,8 @@ The practitioner uses checkpoints to:
 - decide whether to deepen focus on a direction
 
 Checkpoints ensure that meaning and judgment remain human decisions.
+
+Continuing without practitioner input is a protocol violation.
 
 ---
 

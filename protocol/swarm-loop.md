@@ -27,6 +27,8 @@ The goal of Spot is expansion — widening the field of possible inputs.
 
 Early filtering is avoided to prevent premature conclusions.
 
+Progression to Weigh requires practitioner input on which observations should be carried forward.
+
 ---
 
 ## Weigh
@@ -44,6 +46,8 @@ Practitioners consider:
 Weak observations often collapse at this stage.
 
 Observations that persist begin to gain weight.
+
+Progression to Arrange requires practitioner input on which direction, tension, or candidate signal feels strongest.
 
 ---
 
@@ -63,6 +67,8 @@ Multiple promising structures may emerge.
 
 The purpose of Arrange is to reveal relationships between observations and surface possible directions for exploration.
 
+Progression to Refine requires practitioner input on whether the proposed structure feels right.
+
 ---
 
 ## Refine
@@ -75,6 +81,8 @@ Other promising directions may be parked for later loops.
 
 Refinement focuses attention while preserving the broader exploration.
 
+Progression to Make requires practitioner input on whether the direction is becoming clearer or drifting.
+
 ---
 
 ## Make
@@ -82,6 +90,8 @@ Refinement focuses attention while preserving the broader exploration.
 Produce a concrete output that advances the chosen direction.
 
 The purpose of Make is momentum.
+
+Make may proceed only after the prior phase requirements have been satisfied.
 
 Outputs may include sketches, prototypes, experiments, decisions, or other small artifacts that move the work forward.
 

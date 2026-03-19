@@ -155,6 +155,9 @@ At these moments, the agent should pause and defer to the human.
 
 After human input, the loop continues.
 
+Progression from one phase to the next requires practitioner input.
+Continuing without that input is non-compliant with SWARM.
+
 ---
 
 # Agent Behavior
