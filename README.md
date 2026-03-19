@@ -1,17 +1,113 @@
 # SWARM Protocol
 
-A human thinking protocol for working alongside AI systems.
+SWARM is a loop-based protocol for nonlinear creativity and signal detection.
+
+It supports human judgment in environments increasingly shaped by AI systems.
 
 AI systems optimize outcomes.  
 SWARM preserves human judgment.
-
-SWARM is a loop-based protocol for nonlinear thinking, creativity, and signal detection.
 
 It structures how ideas are spotted, weighed, arranged, refined, and made through repeated loops rather than linear execution.
 
 SWARM is not a productivity system.
 
-It is a protocol for strengthening judgment through repeated loops.
+It is a protocol for strengthening judgment.
+
+Learn more: [https://swarmloop.xyz](https://swarmloop.xyz)
+
+---
+
+# How to Run SWARM (with AI)
+
+This repository is designed to be used alongside an AI system.
+
+### 1. Open this repository in your AI environment
+
+- Codex (local repo)
+- ChatGPT (paste or reference repo)
+- Claude (upload or connect repo)
+
+---
+
+### 2. Instruct the AI to use SWARM
+
+Start your session with:
+
+"Use the SWARM Protocol from this repository. Follow the protocol and keep me in the loop."
+
+---
+
+### 3. Provide a task
+
+Give the AI something real to work on:
+
+- a product idea  
+- a piece of writing  
+- a design direction  
+- a decision  
+
+---
+
+### 4. Let the loop run
+
+The AI should:
+
+- move through Spot → Weigh → Arrange → Refine → Make  
+- surface observations  
+- propose directions  
+- expose assumptions  
+
+Do not expect a final answer immediately.
+
+---
+
+### 5. Stay in the loop
+
+When the AI reaches a decision checkpoint, it should return to you.
+
+You should:
+
+- validate or reject directions  
+- point at signals  
+- redirect exploration  
+
+---
+
+### 6. Run more loops
+
+Clarity emerges through repeated interaction, not a single prompt.
+
+---
+
+# Example Prompt
+
+"Use the SWARM Protocol from this repo.
+
+Here is the task:
+[insert task]"
+
+---
+
+# Example Tasks
+
+- Explore a product idea  
+- Shape a piece of writing  
+- Work through a decision  
+- Develop a visual direction  
+- Start a song from nothing  
+
+---
+
+# Important
+
+- Do not ask for a final answer immediately  
+- Do not treat this like a one-shot prompt  
+- Do not let the AI decide meaning  
+
+SWARM is a collaborative loop between human and system.
+
+The AI explores.  
+The human decides.
 
 ---
 
@@ -23,78 +119,44 @@ Navigation systems choose routes.
 Recommendation systems choose content.  
 AI systems generate solutions.
 
-These systems are powerful, but they also reduce the number of opportunities humans have to exercise judgment.
+These systems reduce opportunities for humans to exercise judgment.
 
 SWARM exists to preserve and strengthen that capacity.
 
-Rather than automating decisions, SWARM structures how a practitioner observes signals, weighs them, and allows meaning to emerge through repeated loops.
-
----
-
-# Quick Start
-
-1. Read the core canon  
-2. Run a SWARM loop  
-3. Observe signals  
-4. Capture what repeats  
-
-Do not try to understand everything upfront.
-
-SWARM is learned through use.
+It structures how a practitioner observes signals, weighs them, and allows meaning to emerge over time.
 
 ---
 
 # The SWARM Loop
 
-The functional spine of the protocol is a five-phase loop:
-
 Spot → Weigh → Arrange → Refine → Make
 
 Work happens **inside the loop**.  
-Understanding emerges **across repeated loops**.
+Understanding emerges **across loops**.
 
-Linear structure exists within each pass.  
-Emergence appears through repetition.
-
-Most loops do not produce durable outcomes.
-
-This is expected.
-
-Clarity forms through density of loops rather than a single attempt.
+Most loops do not produce durable outcomes.  
+Clarity forms through accumulation.
 
 ---
 
 # Loop · Protocol · Signal
 
-SWARM distinguishes three structural layers.
-
 ### Loop
-
-A single exploratory pass through the SWARM phases.
-
-Loops are the unit of movement.
+A single exploratory pass.
 
 ### Protocol
-
-The pattern that emerges across many loops once a process proves durable.
-
-Protocols are discovered through repetition rather than imposed before work begins.
+A pattern that emerges across loops.
 
 ### Signal
-
 What persists across loops.
 
 Signals are observed rather than declared.  
-Weak signals collapse under repetition.  
+Weak signals collapse.  
 Strong signals gain weight.
 
-In short:
-
-Loop = movement  
-Protocol = structure discovered over time  
-Signal = meaning that survives repetition
-
-Clarity must be earned through use.
+- Loop = movement  
+- Protocol = structure  
+- Signal = meaning  
 
 ---
 
@@ -102,130 +164,65 @@ Clarity must be earned through use.
 
 SWARM is designed for human practitioners.
 
-Intuition develops through accumulated pattern recognition built over repeated loops.
+Intuition develops through repeated exposure to patterns.
 
 Judgment is delayed rather than removed.
 
-Early loops are intentionally shielded from premature evaluation.  
-Judgment strengthens once signal density forms.
-
-SWARM protects interpretation as a human responsibility.
-
-AI systems may assist the process but must not replace judgment.
-
----
-
-# Reduction
-
-SWARM advances through reduction rather than expansion.
-
-Constraints are not imposed upfront.
-
-They emerge through sustained use as signals become clearer and unnecessary structure falls away.
-
-Reduction is the mechanism through which clarity forms.
-
----
-
-# Repository Structure
-
-This repository contains the stable knowledge of the SWARM Protocol.
-
-```text
-canon/      Core conceptual documents defining the protocol.
-patterns/   Descriptions of recurring behaviors observed across loops.
-practice/   Ways of engaging the SWARM loop in real work.
-templates/  Structures used to write patterns and other protocol artifacts.
-
-AGENTS.md   Guidance for AI systems interacting with this repository.
-README.md   Entry point to the protocol.
-```
-
-Documents are written in plain Markdown to remain portable and accessible to both humans and machines.
-
----
-
-# Canon
-
-The canon contains the foundational ideas behind SWARM.
-
-These documents define the protocol and its boundaries.
-
-Examples include:
-
-- the SWARM loop
-- signals and signal detection
-- intuition and judgment
-- reduction
-- drift risks
-
-Canon documents explain the system rather than prescribing specific tasks.
+AI may assist the process, but must not replace interpretation.
 
 ---
 
 # Patterns
 
-Patterns describe recurring behaviors observed across loops.
+Patterns describe recurring behaviors across loops.
 
-They help practitioners recognize what is happening during exploration.
+They help recognize what is happening.
 
-Patterns do not prescribe action.
+Patterns do not prescribe action.  
+They provide language for what emerges.
 
-They provide language for understanding.
+Example: the SWARM loop.
 
 ---
 
 # Practice
 
-Practices are ways of engaging the SWARM loop in real work.
+Practices are ways of engaging the loop in real work.
 
-They are entry points into exploration, not step-by-step instructions.
+They are entry points, not instructions.
 
-Practices help surface signals and strengthen judgment through use.
+They exist to start movement.
+
+Example: using SWARM in UX research.
 
 ---
 
 # Agents and AI Systems
 
-AI systems may use this repository as a reference when assisting human practitioners.
-
 Agents may:
 
-- retrieve relevant SWARM patterns
-- summarize observations
-- organize signals
-- prompt reflection
+- retrieve patterns  
+- summarize observations  
+- organize signals  
+- prompt reflection  
 
 Agents must not:
 
-- collapse the loop prematurely
-- declare signals
-- replace human interpretation
-- automate judgment
-
-SWARM preserves human evaluation as the center of the protocol.
-
----
-
-# Loop Lab
-
-This repository contains only stable knowledge.
-
-Exploration, experimentation, and collaborative research occur in **Loop Lab**.
-
-Concepts may graduate from Loop Lab into this repository once they become clear and repeatable.
+- collapse the loop prematurely  
+- declare signals  
+- replace human interpretation  
+- automate judgment  
 
 ---
 
 # Status
 
-SWARM is an evolving protocol.
+SWARM is evolving.
 
-The canon will remain stable while deepening through practice.
+The canon remains stable.  
+Patterns expand through use.
 
-Patterns will expand as practitioners apply the protocol across disciplines.
-
-The goal is clarity rather than completeness.
+The goal is clarity, not completeness.
 
 ---
 
@@ -233,10 +230,4 @@ The goal is clarity rather than completeness.
 
 SWARM was developed by Matt Lambert.
 
-More context and writing can be found at:
-
-https://cardeo.ca
-
-Clarity is not delivered.
-
-It is discovered through loops.
+[https://cardeo.ca](https://cardeo.ca)
