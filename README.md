@@ -33,12 +33,7 @@ This repository is designed to be used alongside an AI system.
 
 Start your session with:
 
-"Use the SWARM Protocol from this repo.
-
-Here is the task:
-[insert task]
-
-Pause for my input as the loop progresses."
+"Use this repository to run SWARM on this task: [insert task]"
 
 ---
 
