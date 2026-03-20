@@ -33,7 +33,12 @@ This repository is designed to be used alongside an AI system.
 
 Start your session with:
 
-"Use the SWARM Protocol from this repository. Follow the protocol and keep me in the loop."
+"Use the SWARM Protocol from this repo.
+
+Here is the task:
+[insert task]
+
+Pause for my input as the loop progresses."
 
 ---
 
@@ -41,10 +46,11 @@ Start your session with:
 
 Give the AI something real to work on:
 
-- a product idea  
-- a piece of writing  
-- a design direction  
-- a decision  
+- Explore a product idea  
+- Shape a piece of writing  
+- Work through a decision  
+- Develop a visual direction  
+- Start a song from nothing 
 
 ---
 
@@ -85,27 +91,6 @@ Clarity emerges through repeated interaction, not a single prompt.
 
 Most loops do not produce durable outcomes.  
 This is expected.
-
----
-
-# Example Prompt
-
-"Use the SWARM Protocol from this repo.
-
-Here is the task:
-[insert task]
-
-Pause for my input as the loop progresses."
-
----
-
-# Example Tasks
-
-- Explore a product idea  
-- Shape a piece of writing  
-- Work through a decision  
-- Develop a visual direction  
-- Start a song from nothing  
 
 ---
 
