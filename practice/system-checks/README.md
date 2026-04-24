@@ -51,6 +51,24 @@ What changes is how attention is directed inside each step.
 
 ---
 
+## Choosing the Right Input
+
+System Checks work best when the input is close to the system being examined.
+
+Good inputs may include:
+
+- live product surfaces
+- component libraries
+- repositories
+- workflows in use
+- operating documents that directly shape system behavior
+
+Inputs that are one layer removed from the system may still be useful, but they often reveal documentation or presentation issues rather than the system itself.
+
+If the input is too indirect, the check may drift.
+
+---
+
 ## Attention, Not Instructions
 
 A System Check is not a checklist.

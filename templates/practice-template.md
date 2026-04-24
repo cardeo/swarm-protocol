@@ -12,6 +12,10 @@ What this practice is designed to help with, and when someone might use it.
 
 How to begin the practice.
 
+Frame the starting surface, artifact, or context this practice needs.
+
+If the practice depends on a specific kind of input, make that explicit here.
+
 Set context, constraints, or mindset.
 
 Keep this lightweight. The goal is to enter the loop, not over-prepare.
