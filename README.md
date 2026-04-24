@@ -29,11 +29,21 @@ This repository is designed to be used alongside an AI system.
 
 ---
 
-### 2. Instruct the AI to use SWARM
+### 2. Give the AI the task or problem
 
-Start your session with:
+Start with the real thing you want to work on.
 
-"Use this repository to run SWARM on this task: [insert task]"
+Examples:
+
+- Use this repository for this task: [insert task]
+- Help me think through this using SWARM: [insert task]
+- Use SWARM on this problem: [insert problem]
+
+You do not need to know in advance whether a specific practice applies.
+
+If a relevant practice exists in this repository, the AI may suggest using it as an entry point into the SWARM loop.
+
+If no specific practice fits, the AI should run a standard SWARM loop.
 
 ---
 
@@ -184,6 +194,12 @@ Example: the SWARM loop.
 Practices are ways of engaging the loop in real work.
 
 They are entry points, not instructions.
+
+Practices are optional entry points into SWARM.
+
+They are used when a specific kind of task benefits from a more targeted starting point.
+
+They do not replace the protocol.
 
 They exist to start movement.
 

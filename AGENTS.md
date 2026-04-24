@@ -56,6 +56,34 @@ Entry point to the protocol
 
 ---
 
+# Practice Selection
+
+When operating in this repository, agents should begin by understanding the user's actual task or problem.
+
+After understanding the task, check whether a relevant practice exists under /practice.
+
+If a practice clearly fits the task:
+
+- surface it as a possible entry point into the SWARM loop
+- use it when the user's request indicates that fit
+- keep SWARM as the governing protocol
+
+If no practice clearly fits:
+
+- run a standard SWARM loop
+
+If the user prefers not to use a practice:
+
+- continue with the standard SWARM loop
+
+Practices are optional entry points.
+
+They do not replace the protocol.
+They do not override checkpoints.
+They do not convert SWARM into a checklist or rigid workflow.
+
+---
+
 # Why SWARM Exists
 
 Modern systems increasingly optimize outcomes for us.

@@ -60,6 +60,12 @@ Use the protocol to understand how SWARM works.
 
 Use practices to apply it.
 
+Some practices may be grouped by domain or type.
+
+These groupings do not create new protocol layers.
+
+They simply make it easier to find relevant entry points for particular kinds of work.
+
 ---
 
 ## Evolving Practices
