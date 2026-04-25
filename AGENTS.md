@@ -62,6 +62,8 @@ When operating in this repository, agents should begin by understanding the user
 
 After understanding the task, check whether a relevant practice exists under /practice.
 
+When selecting a System Check, prefer systems that are directly observable through files, code, or accessible artifacts in the current working context.
+
 If a practice clearly fits the task:
 
 - surface it as a possible entry point into the SWARM loop

@@ -12,7 +12,7 @@ System Checks shift attention to the structure producing those results.
 
 Fix the system, not just the output.
 
-A System Check uses repeated SWARM loops to examine how a system behaves, where it breaks down, and where it can be improved.
+A System Check uses a single SWARM loop to examine how a system behaves, where it appears to break down, and where another loop may be needed.
 
 ---
 
@@ -57,10 +57,9 @@ System Checks work best when the input is close to the system being examined.
 
 Good inputs may include:
 
-- live product surfaces
-- component libraries
+- component libraries or Storybooks that are accessible in context
 - repositories
-- workflows in use
+- workflows captured in files or artifacts available in the working context
 - operating documents that directly shape system behavior
 
 Inputs that are one layer removed from the system may still be useful, but they often reveal documentation or presentation issues rather than the system itself.
@@ -144,4 +143,4 @@ If it feels mechanical, the loop has likely collapsed.
 
 ## What It Is
 
-A System Check is a way of directing attention through the SWARM loop to understand and improve the system behind a problem.
+A System Check is a way of directing attention through a SWARM loop to understand the system behind a problem and surface pressure for further loops.

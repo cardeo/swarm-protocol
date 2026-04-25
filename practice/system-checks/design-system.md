@@ -17,11 +17,11 @@ This practice works best when the input is close to the actual design system.
 
 Good inputs include:
 
-- a live component library or Storybook
-- a public design system site with component examples
-- a design system Figma file
+- a component library or Storybook that is accessible in the working context
+- a design system site with inspectable component examples
+- a design system Figma file or design artifact available to the AI tool
 - a component repository or package source
-- a real product surface that clearly uses the system
+- a product surface only when it is directly inspectable from available artifacts
 
 Less reliable inputs include:
 
@@ -97,14 +97,12 @@ Refine:
 - Where can variation be reduced?
 
 Make:
-- Apply one or two small changes
-- Re-observe the system
-
-Repeat loops as needed.
+- Recommend the next loop
+- Identify whether the next loop should test a change, inspect a narrower area, or evaluate a possible improvement
 
 Do not force progression.
 
-Stay where signal is forming.
+Use this loop to create pressure for the next one.
 
 ---
 
@@ -128,9 +126,9 @@ Strong signals will repeat.
 
 Pause when:
 
-- a small number of clear improvements emerge
-- the same signals repeat across loops
-- further loops are not adding clarity
+- a small number of possible improvements emerge
+- one or two tensions feel strong enough to carry into another loop
+- this loop has produced enough signal for the next pass
 
 Capture:
 
@@ -140,7 +138,8 @@ Capture:
 
 Decide whether to:
 
-- apply changes
+- test a change
+- inspect a narrower part of the system
 - run another pass later
 
 ---
