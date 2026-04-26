@@ -1,6 +1,6 @@
 # Design System — System Check
 
-A System Check for evaluating the consistency, structure, and trustworthiness of a design system.
+A System Check for surfacing tension, ambiguity, weak signals, and misalignment in a design system.
 
 Use this when:
 
@@ -39,7 +39,7 @@ Select a real surface where the design system is actively used or defined.
 
 Prefer inputs that are close to the system itself, not just descriptions of it.
 
-Do not try to review the entire system.
+Do not try to cover the entire system.
 
 Stay close to real usage.
 
@@ -51,7 +51,7 @@ Enter the loop by observing what stands out.
 
 Stay at the system level.
 
-Do not try to audit every component.
+Do not try to inspect every component.
 
 Follow what feels off.
 
@@ -98,7 +98,7 @@ Refine:
 
 Make:
 - Recommend the next loop
-- Identify whether the next loop should test a change, inspect a narrower area, or evaluate a possible improvement
+- Identify whether the next loop should test a change, inspect a narrower area, or explore a possible improvement
 
 Do not force progression.
 

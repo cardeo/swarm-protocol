@@ -64,6 +64,12 @@ After understanding the task, check whether a relevant practice exists under /pr
 
 When selecting a System Check, prefer systems that are directly observable through files, code, or accessible artifacts in the current working context.
 
+System Checks are for systems where judgment matters more than correctness.
+
+If there is a clear right answer, the user probably does not need a System Check.
+
+When the user's task is about the repository itself, consider the Repository System Check.
+
 If a practice clearly fits the task:
 
 - surface it as a possible entry point into the SWARM loop
