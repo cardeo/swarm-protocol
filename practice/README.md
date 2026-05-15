@@ -68,6 +68,13 @@ They simply make it easier to find relevant entry points for particular kinds of
 
 ---
 
+## Available Practices
+
+- `loop-logging.md`
+- `system-checks/`
+
+---
+
 ## Evolving Practices
 
 Practices may change over time.
