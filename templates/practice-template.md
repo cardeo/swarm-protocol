@@ -6,6 +6,24 @@ Brief description of the practice.
 
 What this practice is designed to help with, and when someone might use it.
 
+One practice should map cleanly to one repeatable SWARM loop.
+
+The practice should answer:
+
+- What single loop does this practice shape?
+- What repeatable question does this loop help investigate?
+- What signal, learning, decision, or next-loop pressure should it produce?
+
+If a proposed practice requires many different loop shapes, it may be:
+
+- a practice family
+- a specialization
+- an example
+- a project
+- an applied artifact
+
+But it may not be a single practice yet.
+
 ---
 
 ## Entry

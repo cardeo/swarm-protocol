@@ -38,12 +38,12 @@ Signal = meaning
 
 Loops generate information.  
 Signals persist through repetition.  
-Protocols become visible once signals consistently emerge across loops. :contentReference[oaicite:1]{index=1}
+Protocols become visible once signals consistently emerge across loops.
 
 See:
 
 loop.md  
-signals.md
+signal.md
 
 ---
 
@@ -67,7 +67,7 @@ Protocol is recognized after the fact.
 It is the structure that explains why certain loops worked.
 
 Protocol is not declared at the start.  
-It is named once the pattern becomes undeniable. :contentReference[oaicite:2]{index=2}
+It is named once the pattern becomes undeniable.
 
 ---
 

@@ -8,6 +8,8 @@ It is not required to run SWARM.
 
 It is a portable practice that can help practitioners preserve signal, continuity, and judgment across repeated loops.
 
+It is a repeatable post-loop preservation practice, not a separate framework.
+
 ---
 
 ## Origin
@@ -43,6 +45,10 @@ Most loops do not produce durable outcomes.
 Some loops produce observations, tensions, decisions, or patterns worth carrying forward.
 
 Loop logging gives those moments a lightweight capture surface.
+
+Some practices shape investigative loops.
+
+Loop logging shapes preservation after a loop.
 
 A loop log does not define SWARM.
 It does not replace the protocol.
@@ -262,6 +268,12 @@ Loop logs are not daily notes.
 Daily notes record time and activity.
 
 Loop logs preserve carry-forward meaning.
+
+Loop logs are not daily task logs.
+
+Daily task logs track execution over time.
+
+Loop logs preserve signal, judgment, and memory that may matter in later loops.
 
 Loop logs are not productivity logs.
 

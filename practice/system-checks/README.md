@@ -2,6 +2,8 @@
 
 A System Check is a single SWARM loop applied to a system.
 
+It is the shared practice shape for this folder.
+
 System Checks are for systems where judgment matters more than correctness.
 
 Most work focuses on improving results.
@@ -81,8 +83,16 @@ If the input is too indirect, the check may drift.
 
 ## Available System Checks
 
-- Design System — use when the system is a design system, component library, Storybook, design artifact, or product surface shaped by design-system decisions.
-- Repository — use when the repo itself is the system being examined: its structure, language, files, docs, naming, and intent.
+The files in this folder are specialized System Checks.
+
+They are not separate practice classes.
+
+They are domain-specific applications of the same repeatable diagnostic loop.
+
+- Design System — use when the design system's tokens, principles, components, naming, consistency, trust, or governance are the thing being inspected.
+- Repository — use when the repo structure, language, files, docs, naming, or orientation are the thing being inspected.
+
+Use specialization only when it clarifies how the shared System Check shape applies.
 
 ---
 

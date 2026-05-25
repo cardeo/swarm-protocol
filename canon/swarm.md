@@ -53,7 +53,7 @@ Detailed definitions live in their respective canon documents:
 See:
 - `loop.md`
 - `protocol.md`
-- `signals.md`
+- `signal.md`
 
 SWARM does not assume meaning in advance.  
 Clarity must be earned through repeated use.

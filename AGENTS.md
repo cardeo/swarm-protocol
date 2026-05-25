@@ -90,6 +90,12 @@ They do not replace the protocol.
 They do not override checkpoints.
 They do not convert SWARM into a checklist or rigid workflow.
 
+When creating or modifying practices, preserve the rule that one practice should map to one repeatable loop.
+
+Do not create broad domain practices when a System Check specialization or example would be cleaner.
+
+Do not turn practices into checklist-style prompt packs.
+
 ---
 
 # Why SWARM Exists

@@ -15,7 +15,7 @@ Loops exist to produce information, not certainty.
 
 Clarity emerges through repeated loops rather than extended planning.
 
-SWARM gains strength through loop density, not forward progression. :contentReference[oaicite:0]{index=0}
+SWARM gains strength through loop density, not forward progression.
 
 ---
 
@@ -111,7 +111,7 @@ Pattern recognition becomes intuition.
 Intuition is not instinct alone.  
 It is accumulated loop experience.
 
-Disciplined looping is how judgment develops in complex environments. :contentReference[oaicite:1]{index=1}
+Disciplined looping is how judgment develops in complex environments.
 
 ---
 
@@ -184,7 +184,7 @@ Across many loops:
 See:
 
 protocol.md  
-signals.md
+signal.md
 
 Loop = movement  
 Protocol = memory  

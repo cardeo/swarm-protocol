@@ -9,7 +9,7 @@ Signals emerge when patterns become visible across multiple loops.
 
 For the philosophical definition of signals, see:
 
-../canon/signals.md
+../canon/signal.md
 
 ---
 
