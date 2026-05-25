@@ -2,7 +2,7 @@ SWARM License v1.0
 
 Copyright (c) 2026 Matt Lambert
 
-This is a source-available license, not an open source license.
+This is a source-available license, not an open-source license.
 
 SWARM is made available for free use under the following terms:
 
@@ -24,9 +24,9 @@ Restrictions
 
 You may not:
 
-- sell SWARM itself as a product
+- sell or redistribute SWARM itself as a standalone product or competing protocol
 - rebrand SWARM as your own system
-- publicly distribute modified versions of SWARM under a different name or present it as a separate original protocol
+- publicly distribute modified versions of SWARM under a different name
 - remove attribution to the original author
 
 Attribution
@@ -34,13 +34,13 @@ Attribution
 When sharing or referencing SWARM, you must provide clear attribution:
 
 SWARM Protocol by Matt Lambert  
-https://cardeo.ca
+https://swarmloop.xyz
 
 No Contribution Requirement
 
-This repository is not open for external contributions at this time.
+This repository is not currently accepting external contributions.
 
-Use of SWARM does not grant permission to modify or submit changes to the protocol.
+Permission to use or modify SWARM does not imply participation rights in the stewardship or development of the protocol itself.
 
 Disclaimer
 
