@@ -98,7 +98,7 @@ Human judgment remains active throughout the process.
 - `protocol/` — How SWARM operates.
 - `patterns/` — Recurring behaviors and diagnostic observations.
 - `practice/` — Repeatable loop entry points and applications.
-- `templates/` — Authoring scaffolds for extending the protocol.
+- `templates/` — Authoring scaffolds for practices and patterns.
 
 ---
 
@@ -120,10 +120,11 @@ Human judgment remains active throughout the process.
 
 # Status
 
-SWARM is evolving.
+SWARM is Protocol Stable.
 
-The canon remains stable.  
-Patterns and practices expand through use.
+The core protocol is sufficiently defined to support creative work with greater intention and confidence.
+
+Future refinements will be informed by substantive discoveries through use.
 
 ---
 
